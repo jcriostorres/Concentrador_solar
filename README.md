@@ -1,1 +1,4 @@
-# Concentrador_solar
+# Diseño y análisis de un concentrador solar utilizando un multímetro con termocupla una antena y Python
+
+El objetivo de este experimento fue comparar los datos experimentales obtenidos con los datos históricos de temperatura el día 5 de mayo de 2024 en Carepa, Antioquia, con el fin de identificar variaciones y posibles influencias externas, como la presencia de nubes. El objetivo de este experimento fue comparar los datos experimentales obtenidos con los datos históricos de temperatura el día 5 de mayo de 2024 en Carepa, Antioquia, con el fin de identificar variaciones y posibles influencias externas, como la presencia de nubes. La hipótesis es que las condiciones meteorológicas, especialmente la nubosidad, pueden afectar significativamente las lecturas de temperatura en concentradores solares. Los datos experimentales  están dentro del rango de los datos históricos.
+
